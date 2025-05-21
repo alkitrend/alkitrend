@@ -7,9 +7,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Pocket FM](https://pocketfm.com/).
-- 🌱 I’m currently learning more about AI and LLMs.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
+- 🌱 I’m currently learning more about AI.
 - 🤔 I’m looking for help with my side projects.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
