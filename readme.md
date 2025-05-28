@@ -1,5 +1,5 @@
 # 💫 About Me :
-• Experience building scalable web applications using React, Node.js, PostgreSQL
+• Experience building scalable web applications using React, Node.js, PostgreSQL</br>
 • Proficient in RESTful API design, database optimization, cloud deployment (AWS, Docker)
 • Passion for clean code, test automation (Jest, Cypress), CI/CD pipelines
 • Delivered 5+ full-stack projects, improved performance by 30% and reduced bugs by 40%
