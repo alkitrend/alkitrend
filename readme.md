@@ -6,21 +6,21 @@
 • Strong problem solver familiar with agile workflows and cross-functional collaboration</br>
 
 ## 💻 Tech Stack
-- Frontend development
+- Frontend development</br>
  • HTML/CSS, Tailwind CSS, Sass, Bootstrap</br>
  • Javascript/Typescript</br>
  • React.js/Redux</br>
  • Next.js</br>
  
-- Management of the database
+- Management of the database</br>
  • MySQL, PostgreSQL</br>
  • MongoDB</br>
 
-- Backend development
+- Backend development</br>
  • Laravel</br>
  • Node.js/Express.js, Nest.js</br>
  • RESTful API</br>
  • API Integration</br>
 
-- Version Control
- • Git
+- Version Control</br>
+ • Git</br>
