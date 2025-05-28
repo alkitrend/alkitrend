@@ -1,10 +1,3 @@
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> Welcome to My GitHub</h1>
-
-<p align="left"> <img src="" alt="alki" /> </p>
-
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning more about AI.
