@@ -1,26 +1,10 @@
-# 💫 About Me :
-• Experience building scalable web applications using React, Node.js, PostgreSQL</br>
-• Proficient in RESTful API design, database optimization, cloud deployment (AWS, Docker)</br>
-• Passion for clean code, test automation (Jest, Cypress), CI/CD pipelines</br>
-• Delivered 5+ full-stack projects, improved performance by 30% and reduced bugs by 40%</br>
-• Strong problem solver familiar with agile workflows and cross-functional collaboration</br>
+Software Engineer with strong experience building backend and full-stack applications using Python, Django/Flask, Node.js, and AWS serverless technologies.</br>
+Skilled in database design (PostgreSQL, DynamoDB), CI/CD automation, and data pipelines, with a focus on scalable, secure, and maintainable solutions.</br>
+Holds multiple AWS certifications and has delivered productionready features across fintech, blockchain, and enterprise projects.</br>
 
-## 💻 Tech Stack
-- Frontend development</br>
- • HTML/CSS, Tailwind CSS, Sass, Bootstrap</br>
- • Javascript/Typescript</br>
- • React.js/Redux</br>
- • Next.js</br>
- 
-- Management of the database</br>
- • MySQL, PostgreSQL</br>
- • MongoDB</br>
-
-- Backend development</br>
- • Laravel</br>
- • Node.js/Express.js, Nest.js</br>
- • RESTful API</br>
- • API Integration</br>
-
-- Version Control</br>
- • Git</br>
+## 💻 Tech Stack</br>
+LANGUAGES: JavaScript, TypeScript, Python, PySpark, Java, Ruby, Rust, Solana</br>
+FRAMEWORKS: React/React Native, Next.js, Node.js, Django, Flask, Spring</br>
+DATABASES: MySQL, PostgreSQL, DynamoDB, MongoDB, Firebase, Supabase</br>
+TECHNOLOGIES: Docker, Jenkins, Kubernetes, Linux, AWS, Azure DevOps, GitHub Actions, CI/CD</br>
+Machine Learning – Specialty, AWS Certified Security – Specialty</br>
